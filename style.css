@@ -1,0 +1,131 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section{
+    padding: 0px 150px;
+}
+.flex{
+    display: flex;
+}
+
+#h1-div{
+    font-family: 'Yeseva One', cursive;
+    font-size: 38px;
+    border-left: 5px solid #FF5959;
+    border-image-slice: 1;
+    border-radius: 5px;
+    padding-left: 15px;
+    margin-top: 100px;
+}
+#dp img{
+    padding-left: 150px;
+}
+.brown-color{
+    color: #FFAD5A;
+}
+.regular-pera{
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+.text-div{
+    width: 50%;  
+}
+.img-div{
+    width: 50%;  
+}
+.small-para{
+    font-size: 16px;
+    padding-top: 25px;
+}
+
+.button{
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    background-color: #FF5959;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 40px;
+}
+.sec-title{
+    width: 100%;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+}
+.my-mission-divs{
+    border-radius: 26px;
+    width: 25%;
+    padding: 20px 35px;
+    margin-left: 40px ;
+    font-weight: 500;
+}
+.my-mission-divs img{
+    width: 50%;
+}
+#mission-div{
+    background-color: rgba(79, 157, 166, 0.1);
+}
+#vission-div{
+    background-color: rgba(255, 89, 89, 0.1);
+}
+#goals-div{
+    background-color: rgba(255, 244, 214, 1);
+}
+#coding-pic img{
+    width: 60%;
+}
+#coding-text{
+    width: 30%;
+}
+.mid-sec{
+    width:40%;
+    float: left;
+    padding-left: 40px;
+    padding-top: 80px;
+}
+.mid-sec img{
+    width: 100%;
+}
+.mid-sec2 p{
+    padding-bottom: 10px;
+}
+.mid-sec2 h1{
+    font-size:xx-large;
+}
+.mid-sec2{
+    width:60%;
+    float: left;
+    padding-left: 40px;
+    padding-top: 130px;
+}
+.contact-us img{
+    width: 100%;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+footer{
+    background-color: #0B0D17;
+    color: white;
+    text-align: center;
+}
+footer h3{
+    font-family: 'Lobster', cursive;
+    padding-top: 30px;
+    font-size: 36px;
+}
+footer p{
+    font-weight: 200;
+    color: #D9DBE1;
+    margin: 0;
+    padding-bottom: 30px;
+}
+.red-color{
+    color: #FF5959;
+}
